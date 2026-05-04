@@ -1,0 +1,11 @@
+Git Repository Link:
+
+
+
+
+
+Python dependencies:
+
+playwright
+openpyxl
+
